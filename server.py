@@ -59,6 +59,7 @@ def receive():
         thread.start()
 
 print("Server is listening...")
+print("Extra print")
 receive()
 
 
